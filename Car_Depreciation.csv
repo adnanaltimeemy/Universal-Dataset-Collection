@@ -1,0 +1,7 @@
+Car_ID,Brand,Model,Year,Original_Price,Current_Price,Mileage,Fuel_Type,Transmission,Description
+1,Toyota,Corolla,2018,20000,15000,40000,Petrol,Automatic,"Reliable compact car with good fuel economy"
+2,BMW,3 Series,2017,40000,22000,60000,Diesel,Automatic,"Luxury sedan with premium interior and performance"
+3,Ford,Focus,2016,18000,9000,80000,Petrol,Manual,"Affordable hatchback with decent handling"
+4,Audi,A4,2019,42000,30000,30000,Diesel,Automatic,"Stylish luxury car with advanced technology"
+5,Honda,Civic,2015,22000,11000,90000,Petrol,Manual,"Durable and efficient car with strong resale value"
+6,Mercedes,C-Class,2018,45000,28000,50000,Diesel,Automatic,"Comfortable luxury vehicle with smooth ride"

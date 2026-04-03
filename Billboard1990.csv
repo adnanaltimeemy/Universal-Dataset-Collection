@@ -1,0 +1,5 @@
+song,artist,weeks_on_chart,peak_position,genre,year_end_rank
+Song A,Artist 1,20,1,Pop,5
+Song B,Artist 2,15,3,Rock,12
+Song C,Artist 3,10,10,R&B,45
+...
